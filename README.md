@@ -81,29 +81,3 @@ Generated ID: 470157775044192339
 Generated ID: 470157775044192340
 Generated ID: 470157775044192341
 ```
-
-## How to Contribute
-
-1. Fork the repository.
-2. Clone your fork:
-   ```bash
-   git clone https://github.com/yourusername/atomic-id-generator.git
-   ```
-3. Create a new branch for your feature or fix.
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-4. Commit your changes and push them to your fork:
-   ```bash
-   git commit -m "Implement feature"
-   git push origin feature/your-feature
-   ```
-5. Create a pull request to the `main` branch.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions, issues, or suggestions, feel free to reach out via [email@example.com] or open an issue on the repository.
